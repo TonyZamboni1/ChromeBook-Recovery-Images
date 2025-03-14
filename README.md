@@ -11,6 +11,8 @@
 
 
   2. Locate your Chromebook name in this repo. Click the folder.
+  ![Image](https://github.com/user-attachments/assets/d702a18e-4344-4188-b968-6feaf99855c2)
+  
   
   3. Download raw
 
