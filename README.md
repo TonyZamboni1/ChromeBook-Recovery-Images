@@ -6,4 +6,5 @@
 
 
 # Instructions:
-How to download recovery image,
+Find your Chromebook Build (Usually on the back)
+ ![alt text]([http://url/to/img.png](https://github.com/TonyZamboni1/ChromeBook-Recovery-Images/blob/main/IMG_3860.jpg)
